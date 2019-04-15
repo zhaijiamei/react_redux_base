@@ -5,3 +5,5 @@
 ## git clone https://github.com/zhaijiamei/react_redux_base.git
 ## npm i
 ## npm run dev
+
+# 各环境已集成完毕，可直接使用
